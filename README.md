@@ -3,7 +3,7 @@ In this case, an antenna rotator that reacts to the touchscreen to change direct
 What you need:
 - Arduino Uno
 - TFT with touch from Seedstudios (or compatible to ILI9431)
-- An Arduino prototype board whoch goes between the TFT and the Uno
+- An Arduino prototype board which goes between the TFT and the Uno
 - If you like, a pot to set a value by turning the pot, or / and two tap keys for manual left/right operation
 - two relays to drive the motor left/right
   
